@@ -3,4 +3,5 @@ def introduction (name)
 end
 
 def introduction (name,language)
-  put "hidden_field_tag, my name "
+  put "Hi, my name is #{name} and I am learning to program in #{language}"
+end
